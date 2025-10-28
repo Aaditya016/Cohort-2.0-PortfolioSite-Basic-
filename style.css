@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body,html{
+    height: 100%;
+    width: 100%;
+}
+
+.heading{
+    background-color: #F4EEFF;
+    text-align: center;
+    padding: 40px;
+    color: black;
+}
+
+h1{
+    font-size: 50px;
+
+}
+
+h2{
+    font-weight: 20px;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.SubSection{
+    background-color: white;
+    text-align: center;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 25px;
+    
+}
+
+.about{
+    background-color: #DCD6F7;
+    padding: 45px;
+    text-wrap: wrap;
+    border-radius: 15px;
+}
+
+#aboutme{
+    font-weight:bold;
+    padding-bottom: 15px;
+}
+
+.Education{
+    background-color: #A6B1E1;
+    padding: 45px;
+    border-radius: 15px;
+}
+
+.edu{
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 55px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 5px;
+}
+
+.edu1{
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 55px;
+    padding-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 5px;
+}
+
+.skills{
+    background-color: #c4cdf2;
+    padding: 45px;
+    border-radius: 15px;
+}
+
+.tech-stack h3{
+    background-color: white;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+
+.projects{
+    background-color: #e3e8fe;
+    padding: 45px;
+    border-radius: 15px;
+}
+
+.project-des h3{
+    background-color: white;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.contact{
+    background-color: #b2badb;
+    padding: 45px;
+    border-radius: 15px;
+}
+
+.contact-des h3{
+    background-color: white;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    font-weight: normal;
+}
+
+footer{
+    background-color: #424874;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
